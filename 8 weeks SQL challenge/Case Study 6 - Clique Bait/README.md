@@ -14,7 +14,7 @@
 ![Level](https://img.shields.io/badge/Level-Advanced-c0392b?style=for-the-badge)
 ![Files](https://img.shields.io/badge/Scripts-3-blueviolet?style=for-the-badge)
 
-[⬅️ Previous: Data Mart](../Case%20Study%205%20-%20Data%20Mart/README.md) &nbsp;•&nbsp; [🏠 Back to Main](../../README.md) &nbsp;•&nbsp; [Next: Balanced Tree Clothing Co. ➡️](../Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co./README.md)
+[⬅️ Previous: Data Mart](../Case%20Study%205%20-%20Data%20Mart/README.md) &nbsp;•&nbsp; [🏠 Back to Main](../../README.md) &nbsp;•&nbsp; [Next: Balanced Tree Clothing Co. ➡️](../Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co/README.md)
 
 </div>
 
