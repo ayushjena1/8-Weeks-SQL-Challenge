@@ -14,7 +14,7 @@
 ![Level](https://img.shields.io/badge/Level-Intermediate-f39c12?style=for-the-badge)
 ![Files](https://img.shields.io/badge/Scripts-4-blueviolet?style=for-the-badge)
 
-[⬅️ Previous: Data Bank](../data_bank/README.md) &nbsp;•&nbsp; [⬅️ Back to Main](../README.md) &nbsp;•&nbsp; [Next: Clique Bait ➡️](../clique_bait/README.md)
+[⬅️ Previous: Data Bank](../Case%20Study%204%20-%20Data%20Bank/README.md) &nbsp;•&nbsp; [🏠 Back to Main](../../README.md) &nbsp;•&nbsp; [Next: Clique Bait ➡️](../Case%20Study%206%20-%20Clique%20Bait/README.md)
 
 </div>
 
