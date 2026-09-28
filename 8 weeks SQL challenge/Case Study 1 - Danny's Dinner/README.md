@@ -14,7 +14,7 @@
 ![Level](https://img.shields.io/badge/Level-Beginner-2ea44f?style=for-the-badge)
 ![Questions](https://img.shields.io/badge/Questions-10%20%2B%202%20Bonus-blueviolet?style=for-the-badge)
 
-[⬅️ Back to Main](../README.md) &nbsp;•&nbsp; [Next: Pizza Runner ➡️](../pizza_runner/README.md)
+[⬅️ Back to Main](../README.md) &nbsp;•&nbsp; [Next: Pizza Runner ➡️](../Case_Study_2_-_Pizza_Runner/README.md)
 
 </div>
 
