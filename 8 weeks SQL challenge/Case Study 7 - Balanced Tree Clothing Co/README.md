@@ -14,7 +14,7 @@
 ![Level](https://img.shields.io/badge/Level-Intermediate-f39c12?style=for-the-badge)
 ![Files](https://img.shields.io/badge/Scripts-4-blueviolet?style=for-the-badge)
 
-[⬅️ Previous: Clique Bait](../clique_bait/README.md) &nbsp;•&nbsp; [⬅️ Back to Main](../README.md) &nbsp;•&nbsp; [Next: Fresh Segments ➡️](../fresh_segments/README.md)
+[⬅️ Previous: Clique Bait](../Case%20Study%206%20-%20Clique%20Bait/README.md) &nbsp;•&nbsp; [🏠 Back to Main](../../README.md) &nbsp;•&nbsp; [Next: Fresh Segments ➡️](../Case%20Study%208%20-%20Fresh%20Segments/README.md)
 
 </div>
 
