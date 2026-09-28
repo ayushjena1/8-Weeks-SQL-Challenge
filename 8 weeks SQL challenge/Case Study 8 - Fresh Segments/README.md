@@ -14,9 +14,6 @@
 ![Level](https://img.shields.io/badge/Level-Advanced-c0392b?style=for-the-badge)
 ![Files](https://img.shields.io/badge/Scripts-4-blueviolet?style=for-the-badge)
 
-[⬅️ Previous: Balanced Tree](../balanced_tree/README.md) &nbsp;•&nbsp; [⬅️ Back to Main](../README.md)
-
-
 [⬅️ Previous: Balanced Tree Clothing Co.](../Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co/README.md) &nbsp;•&nbsp; [🏠 Back to Main](../../README.md) &nbsp;•&nbsp;
 
 </div>
