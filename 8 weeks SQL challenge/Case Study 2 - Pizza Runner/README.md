@@ -14,7 +14,7 @@
 ![Level](https://img.shields.io/badge/Level-Intermediate-f39c12?style=for-the-badge)
 ![Files](https://img.shields.io/badge/Scripts-6-blueviolet?style=for-the-badge)
 
-[⬅️ Previous: Danny's Diner](../danny_dinner/README.md) &nbsp;•&nbsp; [⬅️ Back to Main](../README.md) &nbsp;•&nbsp; [Next: Foodie-Fi ➡️](../foodie_fi/README.md)
+[⬅️ Previous: Danny's Diner](../Case%20Study%201%20-%20Danny's%20Dinner/README.md) &nbsp;•&nbsp; [🏠 Back to Main](../../README.md) &nbsp;•&nbsp; [Next: Foodie-Fi ➡️](../Case%20Study%203%20-%20Foodie%20Fi/README.md)
 
 </div>
 
