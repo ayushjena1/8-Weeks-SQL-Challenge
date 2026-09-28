@@ -14,7 +14,7 @@
 ![Level](https://img.shields.io/badge/Level-Intermediate-f39c12?style=for-the-badge)
 ![Files](https://img.shields.io/badge/Scripts-3-blueviolet?style=for-the-badge)
 
-[⬅️ Previous: Pizza Runner](../pizza_runner/README.md) &nbsp;•&nbsp; [⬅️ Back to Main](../README.md) &nbsp;•&nbsp; [Next: Data Bank ➡️](../data_bank/README.md)
+[⬅️ Previous: Pizza Runner](../Case%20Study%202%20-%20Pizza%20Runner/README.md) &nbsp;•&nbsp; [🏠 Back to Main](../../README.md) &nbsp;•&nbsp; [Next: Data Bank ➡️](../Case%20Study%204%20-%20Data%20Bank/README.md)
 
 </div>
 
