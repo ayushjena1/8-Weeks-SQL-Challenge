@@ -14,7 +14,7 @@
 ![Level](https://img.shields.io/badge/Level-Intermediate-f39c12?style=for-the-badge)
 ![Files](https://img.shields.io/badge/Scripts-2-blueviolet?style=for-the-badge)
 
-[⬅️ Previous: Foodie-Fi](../foodie_fi/README.md) &nbsp;•&nbsp; [⬅️ Back to Main](../README.md) &nbsp;•&nbsp; [Next: Data Mart ➡️](../data_mart/README.md)
+[⬅️ Previous: Foodie Fi](../Case%20Study%203%20-%20Foodie%20Fi/README.md) &nbsp;•&nbsp; [🏠 Back to Main](../../README.md) &nbsp;•&nbsp; [Next: Data Mart ➡️](../Case%20Study%205%20-%20Data%20Mart/README.md)
 
 </div>
 
