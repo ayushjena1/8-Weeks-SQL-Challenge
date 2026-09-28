@@ -16,6 +16,9 @@
 
 [⬅️ Previous: Balanced Tree](../balanced_tree/README.md) &nbsp;•&nbsp; [⬅️ Back to Main](../README.md)
 
+
+[⬅️ Previous: Balanced Tree Clothing Co.](../Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co/README.md) &nbsp;•&nbsp; [🏠 Back to Main](../../README.md) &nbsp;•&nbsp;
+
 </div>
 
 ---
