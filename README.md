@@ -74,14 +74,14 @@ This repository contains **my complete solutions to all 8 case studies**, writte
 
 | # | Case Study | Industry | What I Analysed | Explore |
 |:-:|---|---|---|:-:|
-| 1 | 🍜 **Danny's Diner** | Restaurant | Customer spend, visits, favourites, loyalty points | [📂 Open](./danny_dinner/) |
-| 2 | 🍕 **Pizza Runner** | Food delivery | Data cleaning, delivery performance, toppings, pricing | [📂 Open](./pizza_runner/) |
-| 3 | 🥑 **Foodie-Fi** | Streaming / subscriptions | Customer journeys, churn, plan upgrades, payments | [📂 Open](./foodie_fi/) |
-| 4 | 🏦 **Data Bank** | Digital banking | Node allocation, transactions, monthly balances | [📂 Open](./data_bank/) |
-| 5 | 🛒 **Data Mart** | Online retail | Data cleansing, before/after impact of a packaging change | [📂 Open](./data_mart/) |
-| 6 | 🦞 **Clique Bait** | E-commerce | User behaviour, product funnel, campaign tracking | [📂 Open](./clique_bait/) |
-| 7 | 👕 **Balanced Tree** | Fashion retail | Sales, baskets, product mix, product combinations | [📂 Open](./balanced_tree/) |
-| 8 | 🎯 **Fresh Segments** | Digital marketing | Interest metrics, segment volatility, index analysis | [📂 Open](./fresh_segments/) |
+| 1 | 🍜 **Danny's Diner** | Restaurant | Customer spend, visits, favourites, loyalty points | [📂 Open](./8%20weeks%20SQL%20challenge/Case%20Study%201%20-%20Danny%27s%20Dinner/) |
+| 2 | 🍕 **Pizza Runner** | Food delivery | Data cleaning, delivery performance, toppings, pricing | [📂 Open](./8%20weeks%20SQL%20challenge/Case%20Study%202%20-%20Pizza%20Runner/) |
+| 3 | 🥑 **Foodie-Fi** | Streaming / subscriptions | Customer journeys, churn, plan upgrades, payments | [📂 Open](./8%20weeks%20SQL%20challenge/Case%20Study%203%20-%20Foodie%20Fi/) |
+| 4 | 🏦 **Data Bank** | Digital banking | Node allocation, transactions, monthly balances | [📂 Open](./8%20weeks%20SQL%20challenge/Case%20Study%204%20-%20Data%20Bank/) |
+| 5 | 🛒 **Data Mart** | Online retail | Data cleansing, before/after impact of a packaging change | [📂 Open](./8%20weeks%20SQL%20challenge/Case%20Study%205%20-%20Data%20Mart/) |
+| 6 | 🦞 **Clique Bait** | E-commerce | User behaviour, product funnel, campaign tracking | [📂 Open](./8%20weeks%20SQL%20challenge/Case%20Study%206%20-%20Clique%20Bait/) |
+| 7 | 👕 **Balanced Tree** | Fashion retail | Sales, baskets, product mix, product combinations | [📂 Open](./8%20weeks%20SQL%20challenge/Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co/) |
+| 8 | 🎯 **Fresh Segments** | Digital marketing | Interest metrics, segment volatility, index analysis | [📂 Open](./8%20weeks%20SQL%20challenge/Case%20Study%208%20-%20Fresh%20Segments/) |
 
 ---
 
@@ -107,7 +107,7 @@ This repository contains **my complete solutions to all 8 case studies**, writte
 
 ---
 
-### [1️⃣ Danny's Diner](./danny_dinner/)
+### [1️⃣ Danny's Diner](./8%20weeks%20SQL%20challenge/Case%20Study%201%20-%20Danny%27s%20Dinner/)
 
 **🎯 Business problem:** Danny's new Japanese restaurant (sushi, curry, ramen) has collected basic data but doesn't know how to use it. He wants to understand **visiting patterns, spending and favourite dishes** to decide whether to expand his **loyalty program**.
 
@@ -116,15 +116,15 @@ This repository contains **my complete solutions to all 8 case studies**, writte
 **🛠️ Skills:** `JOIN` · `CTE` · `ROW_NUMBER` / `DENSE_RANK` / `RANK` · `CASE`
 
 **📂 Direct file links:**
-- 📖 [README: full walkthrough](./danny_dinner/README.md)
-- 🗄️ [Dataset.sql](./danny_dinner/Dataset.sql)
-- 🍜 [Dannys Dinner.sql](./danny_dinner/Dannys%20Dinner.sql)
+- 📖 [README: full walkthrough](./8%20weeks%20SQL%20challenge/Case%20Study%201%20-%20Danny%27s%20Dinner/README.md)
+- 🗄️ [Dataset.sql](./8%20weeks%20SQL%20challenge/Case%20Study%201%20-%20Danny%27s%20Dinner/Dataset.sql)
+- 🍜 [Dannys Dinner.sql](./8%20weeks%20SQL%20challenge/Case%20Study%201%20-%20Danny%27s%20Dinner/Dannys%20Dinner.sql)
 
 <div align="right"><a href="#-table-of-contents">⬆️ Back to top</a></div>
 
 ---
 
-### [2️⃣ Pizza Runner](./pizza_runner/)
+### [2️⃣ Pizza Runner](./8%20weeks%20SQL%20challenge/Case%20Study%202%20-%20Pizza%20Runner/)
 
 **🎯 Business problem:** Danny is "Uberising" his pizza business with runners and a mobile app. The raw order and delivery data is messy and needs **cleaning** before he can measure **runner performance, popular toppings and profitability**.
 
@@ -133,20 +133,20 @@ This repository contains **my complete solutions to all 8 case studies**, writte
 **🛠️ Skills:** data cleaning · `REGEXP_REPLACE` · `UNNEST` / `LATERAL` · views · `STRING_AGG` · `CREATE TABLE` / `INSERT`
 
 **📂 Direct file links:**
-- 📖 [README: full walkthrough](./pizza_runner/README.md)
-- 🗄️ [Dataset.sql](./pizza_runner/Dataset.sql)
-- 🧹 [Data Cleaning and Transformation.sql](./pizza_runner/Data%20Cleaning%20and%20Transformation.sql)
-- 🍕 [A. Pizza Metrics.sql](./pizza_runner/A.%20Pizza%20Metrics.sql)
-- 🏃 [B. Runner and Customer Experience.sql](./pizza_runner/B.%20Runner%20and%20Customer%20Experience.sql)
-- 🧀 [C. Ingredient Optimisation.sql](./pizza_runner/C.%20Ingredient%20Optimisation.sql)
-- 💰 [D. Pricing and Ratings.sql](./pizza_runner/D.%20Pricing%20and%20Ratings.sql)
-- 🎁 [E. Bonus Question.sql](./pizza_runner/E.%20%20Bonus%20Question.sql)
+- 📖 [README: full walkthrough](./8%20weeks%20SQL%20challenge/Case%20Study%202%20-%20Pizza%20Runner/README.md)
+- 🗄️ [Dataset.sql](./8%20weeks%20SQL%20challenge/Case%20Study%202%20-%20Pizza%20Runner/Dataset.sql)
+- 🧹 [Data Cleaning and Transformation.sql](./8%20weeks%20SQL%20challenge/Case%20Study%202%20-%20Pizza%20Runner/Data%20Cleaning%20and%20Transformation.sql)
+- 🍕 [A. Pizza Metrics.sql](./8%20weeks%20SQL%20challenge/Case%20Study%202%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.sql)
+- 🏃 [B. Runner and Customer Experience.sql](./8%20weeks%20SQL%20challenge/Case%20Study%202%20-%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.sql)
+- 🧀 [C. Ingredient Optimisation.sql](./8%20weeks%20SQL%20challenge/Case%20Study%202%20-%20Pizza%20Runner/C.%20Ingredient%20Optimisation.sql)
+- 💰 [D. Pricing and Ratings.sql](./8%20weeks%20SQL%20challenge/Case%20Study%202%20-%20Pizza%20Runner/D.%20Pricing%20and%20Ratings.sql)
+- 🎁 [E. Bonus Question.sql](./8%20weeks%20SQL%20challenge/Case%20Study%202%20-%20Pizza%20Runner/E.%20%20Bonus%20Question.sql)
 
 <div align="right"><a href="#-table-of-contents">⬆️ Back to top</a></div>
 
 ---
 
-### [3️⃣ Foodie-Fi](./foodie_fi/)
+### [3️⃣ Foodie-Fi](./8%20weeks%20SQL%20challenge/Case%20Study%203%20-%20Foodie%20Fi/)
 
 **🎯 Business problem:** Foodie-Fi is a streaming service that only shows food content, sold through monthly and annual subscriptions. Danny wants **data-driven decisions** on growth, **churn** and product features.
 
@@ -155,17 +155,17 @@ This repository contains **my complete solutions to all 8 case studies**, writte
 **🛠️ Skills:** `LEAD` / `LAG` · `GENERATE_SERIES` · date intervals · multi-step CTEs · business rules in SQL
 
 **📂 Direct file links:**
-- 📖 [README: full walkthrough](./foodie_fi/README.md)
-- 🗄️ [Dataset.sql](./foodie_fi/Dataset.sql)
-- 🧭 [A. Customer Journey.sql](./foodie_fi/A.%20Customer%20Journey.sql)
-- 📊 [B. Data Analysis.sql](./foodie_fi/B.%20Data%20Analysis.sql)
-- 💳 [C. Challenge Payment.sql](./foodie_fi/C.%20Challenge%20Payment.sql)
+- 📖 [README: full walkthrough](./8%20weeks%20SQL%20challenge/Case%20Study%203%20-%20Foodie%20Fi/README.md)
+- 🗄️ [Dataset.sql](./8%20weeks%20SQL%20challenge/Case%20Study%203%20-%20Foodie%20Fi/Dataset.sql)
+- 🧭 [A. Customer Journey.sql](./8%20weeks%20SQL%20challenge/Case%20Study%203%20-%20Foodie%20Fi/A.%20Customer%20Journey.sql)
+- 📊 [B. Data Analysis.sql](./8%20weeks%20SQL%20challenge/Case%20Study%203%20-%20Foodie%20Fi/B.%20Data%20Analysis.sql)
+- 💳 [C. Challenge Payment.sql](./8%20weeks%20SQL%20challenge/Case%20Study%203%20-%20Foodie%20Fi/C.%20Challenge%20Payment.sql)
 
 <div align="right"><a href="#-table-of-contents">⬆️ Back to top</a></div>
 
 ---
 
-### [4️⃣ Data Bank](./data_bank/)
+### [4️⃣ Data Bank](./8%20weeks%20SQL%20challenge/Case%20Study%204%20-%20Data%20Bank/)
 
 **🎯 Business problem:** Data Bank is a digital-only bank that pairs banking with secure cloud data storage tied to account balances. The team needs to understand **how customers are distributed across nodes** and **how their balances and transactions behave**.
 
@@ -174,16 +174,16 @@ This repository contains **my complete solutions to all 8 case studies**, writte
 **🛠️ Skills:** `PERCENTILE_CONT` · running totals · `FIRST_VALUE` / `LAST_VALUE` · `DATE_TRUNC` · conditional aggregation
 
 **📂 Direct file links:**
-- 📖 [README: full walkthrough](./data_bank/README.md)
-- 🗄️ [Dataset.sql](./data_bank/Dataset.sql)
-- 🗺️ [A. Customer Nodes Exploration.sql](./data_bank/A.%20Customer%20Nodes%20Exploration.sql)
-- 💳 [B. Customer Transactions.sql](./data_bank/B.%20Customer%20Transactions.sql)
+- 📖 [README: full walkthrough](./8%20weeks%20SQL%20challenge/Case%20Study%204%20-%20Data%20Bank/README.md)
+- 🗄️ [Dataset.sql](./8%20weeks%20SQL%20challenge/Case%20Study%204%20-%20Data%20Bank/Dataset.sql)
+- 🗺️ [A. Customer Nodes Exploration.sql](./8%20weeks%20SQL%20challenge/Case%20Study%204%20-%20Data%20Bank/A.%20Customer%20Nodes%20Exploration.sql)
+- 💳 [B. Customer Transactions.sql](./8%20weeks%20SQL%20challenge/Case%20Study%204%20-%20Data%20Bank/B.%20Customer%20Transactions.sql)
 
 <div align="right"><a href="#-table-of-contents">⬆️ Back to top</a></div>
 
 ---
 
-### [5️⃣ Data Mart](./data_mart/)
+### [5️⃣ Data Mart](./8%20weeks%20SQL%20challenge/Case%20Study%205%20-%20Data%20Mart/)
 
 **🎯 Business problem:** In June 2020 Data Mart switched all products to **sustainable packaging**. Danny needs to know **what happened to sales**, which parts of the business were affected most, and how to plan future changes.
 
@@ -192,18 +192,18 @@ This repository contains **my complete solutions to all 8 case studies**, writte
 **🛠️ Skills:** `CREATE TABLE AS` · date parsing · `EXTRACT` · window functions · before/after analysis
 
 **📂 Direct file links:**
-- 📖 [README: full walkthrough](./data_mart/README.md)
-- 🗄️ [Dataset.sql](./data_mart/Dataset.sql)
-- 🧼 [A. Data Cleansing Steps.sql](./data_mart/A.%20Data%20Cleansing%20Steps.sql)
-- 🔎 [B. Data Exploration.sql](./data_mart/B.%20Data%20Exploration.sql)
-- ⏱️ [C. Before & After Analysis.sql](./data_mart/C.%20Before%20%26%20After%20Analysis.sql)
-- 🎁 [D. Bonus Question.sql](./data_mart/D.%20Bonus%20Question.sql)
+- 📖 [README: full walkthrough](./8%20weeks%20SQL%20challenge/Case%20Study%205%20-%20Data%20Mart/README.md)
+- 🗄️ [Dataset.sql](./8%20weeks%20SQL%20challenge/Case%20Study%205%20-%20Data%20Mart/Dataset.sql)
+- 🧼 [A. Data Cleansing Steps.sql](./8%20weeks%20SQL%20challenge/Case%20Study%205%20-%20Data%20Mart/A.%20Data%20Cleansing%20Steps.sql)
+- 🔎 [B. Data Exploration.sql](./8%20weeks%20SQL%20challenge/Case%20Study%205%20-%20Data%20Mart/B.%20Data%20Exploration.sql)
+- ⏱️ [C. Before & After Analysis.sql](./8%20weeks%20SQL%20challenge/Case%20Study%205%20-%20Data%20Mart/C.%20Before%20%26%20After%20Analysis.sql)
+- 🎁 [D. Bonus Question.sql](./8%20weeks%20SQL%20challenge/Case%20Study%205%20-%20Data%20Mart/D.%20Bonus%20Question.sql)
 
 <div align="right"><a href="#-table-of-contents">⬆️ Back to top</a></div>
 
 ---
 
-### [6️⃣ Clique Bait](./clique_bait/)
+### [6️⃣ Clique Bait](./8%20weeks%20SQL%20challenge/Case%20Study%206%20-%20Clique%20Bait/)
 
 **🎯 Business problem:** Clique Bait is an online seafood store. Danny wants to understand **user behaviour**, build a **product funnel** (view → cart → purchase) and **measure marketing campaigns**.
 
@@ -212,17 +212,17 @@ This repository contains **my complete solutions to all 8 case studies**, writte
 **🛠️ Skills:** views · funnel and conversion analysis · `STRING_AGG … ORDER BY` · range joins · multi-CTE queries
 
 **📂 Direct file links:**
-- 📖 [README: full walkthrough](./clique_bait/README.md)
-- 🗄️ [Dataset.sql](./clique_bait/Dataset.sql)
-- 📈 [A. Digital Analysis.sql](./clique_bait/A.%20Digital%20Analysis.sql)
-- 🔻 [B. Product Funnel Analysis.sql](./clique_bait/B.%20Product%20Funnel%20Analysis.sql)
-- 📣 [C. Campaigns Analysis.sql](./clique_bait/C.%20Campaigns%20Analysis.sql)
+- 📖 [README: full walkthrough](./8%20weeks%20SQL%20challenge/Case%20Study%206%20-%20Clique%20Bait/README.md)
+- 🗄️ [Dataset.sql](./8%20weeks%20SQL%20challenge/Case%20Study%206%20-%20Clique%20Bait/Dataset.sql)
+- 📈 [A. Digital Analysis.sql](./8%20weeks%20SQL%20challenge/Case%20Study%206%20-%20Clique%20Bait/A.%20Digital%20Analysis.sql)
+- 🔻 [B. Product Funnel Analysis.sql](./8%20weeks%20SQL%20challenge/Case%20Study%206%20-%20Clique%20Bait/B.%20Product%20Funnel%20Analysis.sql)
+- 📣 [C. Campaigns Analysis.sql](./8%20weeks%20SQL%20challenge/Case%20Study%206%20-%20Clique%20Bait/C.%20Campaigns%20Analysis.sql)
 
 <div align="right"><a href="#-table-of-contents">⬆️ Back to top</a></div>
 
 ---
 
-### [7️⃣ Balanced Tree Clothing Co.](./balanced_tree/)
+### [7️⃣ Balanced Tree Clothing Co.](./8%20weeks%20SQL%20challenge/Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co/)
 
 **🎯 Business problem:** Danny, CEO of a fashion brand, wants the merchandising team to **analyse sales performance** and produce a **basic financial report** for the wider business.
 
@@ -231,18 +231,18 @@ This repository contains **my complete solutions to all 8 case studies**, writte
 **🛠️ Skills:** self-joins · `DENSE_RANK` · `SUM() OVER` · `PERCENTILE_CONT` · hierarchical data · basket analysis
 
 **📂 Direct file links:**
-- 📖 [README: full walkthrough](./balanced_tree/README.md)
-- 🗄️ [Dataset.sql](./balanced_tree/Dataset.sql)
-- 💵 [A. High Level Sales Analysis.sql](./balanced_tree/A.%20High%20Level%20Sales%20Analysis.sql)
-- 🧾 [B. Transaction Analysis.sql](./balanced_tree/B.%20Transaction%20Analysis.sql)
-- 👗 [C. Product Analysis.sql](./balanced_tree/C.%20Product%20Analysis.sql)
-- 🎁 [D. Bonus Challenge.sql](./balanced_tree/D.%20Bonus%20Challenge.sql)
+- 📖 [README: full walkthrough](./8%20weeks%20SQL%20challenge/Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co/README.md)
+- 🗄️ [Dataset.sql](./8%20weeks%20SQL%20challenge/Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co/Dataset.sql)
+- 💵 [A. High Level Sales Analysis.sql](./8%20weeks%20SQL%20challenge/Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co/A.%20High%20Level%20Sales%20Analysis.sql)
+- 🧾 [B. Transaction Analysis.sql](./8%20weeks%20SQL%20challenge/Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co/B.%20Transaction%20Analysis.sql)
+- 👗 [C. Product Analysis.sql](./8%20weeks%20SQL%20challenge/Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co/C.%20Product%20Analysis.sql)
+- 🎁 [D. Bonus Challenge.sql](./8%20weeks%20SQL%20challenge/Case%20Study%207%20-%20Balanced%20Tree%20Clothing%20Co/D.%20Bonus%20Challenge.sql)
 
 <div align="right"><a href="#-table-of-contents">⬆️ Back to top</a></div>
 
 ---
 
-### [8️⃣ Fresh Segments](./fresh_segments/)
+### [8️⃣ Fresh Segments](./8%20weeks%20SQL%20challenge/Case%20Study%208%20-%20Fresh%20Segments/)
 
 **🎯 Business problem:** Fresh Segments is a digital marketing agency that analyses online ad click behaviour. Danny wants **high-level insights** from one major client's interest data: what is stable, what is volatile, and what to recommend.
 
@@ -251,12 +251,12 @@ This repository contains **my complete solutions to all 8 case studies**, writte
 **🛠️ Skills:** rolling averages · `LAG` · `STDDEV` · cumulative percentages · data validation · conditional pivoting
 
 **📂 Direct file links:**
-- 📖 [README: full walkthrough](./fresh_segments/README.md)
-- 🗄️ [Dataset.sql](./fresh_segments/Dataset.sql)
-- 🧼 [A. Data Exploration and Cleansing.sql](./fresh_segments/A.%20Data%20Exploration%20and%20Cleansing.sql)
-- 🔍 [B. Interest Analysis.sql](./fresh_segments/B.%20Interest%20Analysis.sql)
-- 📊 [C. Segment Analysis.sql](./fresh_segments/C.%20Segment%20Analysis.sql)
-- 📐 [D. Index Analysis.sql](./fresh_segments/D.%20Index%20Analysis.sql)
+- 📖 [README: full walkthrough](./8%20weeks%20SQL%20challenge/Case%20Study%208%20-%20Fresh%20Segments/README.md)
+- 🗄️ [Dataset.sql](./8%20weeks%20SQL%20challenge/Case%20Study%208%20-%20Fresh%20Segments/Dataset.sql)
+- 🧼 [A. Data Exploration and Cleansing.sql](./8%20weeks%20SQL%20challenge/Case%20Study%208%20-%20Fresh%20Segments/A.%20Data%20Exploration%20and%20Cleansing.sql)
+- 🔍 [B. Interest Analysis.sql](./8%20weeks%20SQL%20challenge/Case%20Study%208%20-%20Fresh%20Segments/B.%20Interest%20Analysis.sql)
+- 📊 [C. Segment Analysis.sql](./8%20weeks%20SQL%20challenge/Case%20Study%208%20-%20Fresh%20Segments/C.%20Segment%20Analysis.sql)
+- 📐 [D. Index Analysis.sql](./8%20weeks%20SQL%20challenge/Case%20Study%208%20-%20Fresh%20Segments/D.%20Index%20Analysis.sql)
 
 <div align="right"><a href="#-table-of-contents">⬆️ Back to top</a></div>
 
@@ -268,66 +268,66 @@ This repository contains **my complete solutions to all 8 case studies**, writte
 8-week-sql-challenge/
 │
 ├── 📄 README.md                     ← You are here
-├── 📄 .gitignore
 │
-├── 🍜 danny_dinner/
-│   ├── README.md
-│   ├── Dataset.sql
-│   └── Dannys Dinner.sql
-│
-├── 🍕 pizza_runner/
-│   ├── README.md
-│   ├── Dataset.sql
-│   ├── Data Cleaning and Transformation.sql
-│   ├── A. Pizza Metrics.sql
-│   ├── B. Runner and Customer Experience.sql
-│   ├── C. Ingredient Optimisation.sql
-│   ├── D. Pricing and Ratings.sql
-│   └── E.  Bonus Question.sql
-│
-├── 🥑 foodie_fi/
-│   ├── README.md
-│   ├── Dataset.sql
-│   ├── A. Customer Journey.sql
-│   ├── B. Data Analysis.sql
-│   └── C. Challenge Payment.sql
-│
-├── 🏦 data_bank/
-│   ├── README.md
-│   ├── Dataset.sql
-│   ├── A. Customer Nodes Exploration.sql
-│   └── B. Customer Transactions.sql
-│
-├── 🛒 data_mart/
-│   ├── README.md
-│   ├── Dataset.sql
-│   ├── A. Data Cleansing Steps.sql
-│   ├── B. Data Exploration.sql
-│   ├── C. Before & After Analysis.sql
-│   └── D. Bonus Question.sql
-│
-├── 🦞 clique_bait/
-│   ├── README.md
-│   ├── Dataset.sql
-│   ├── A. Digital Analysis.sql
-│   ├── B. Product Funnel Analysis.sql
-│   └── C. Campaigns Analysis.sql
-│
-├── 👕 balanced_tree/
-│   ├── README.md
-│   ├── Dataset.sql
-│   ├── A. High Level Sales Analysis.sql
-│   ├── B. Transaction Analysis.sql
-│   ├── C. Product Analysis.sql
-│   └── D. Bonus Challenge.sql
-│
-└── 🎯 fresh_segments/
-    ├── README.md
-    ├── Dataset.sql
-    ├── A. Data Exploration and Cleansing.sql
-    ├── B. Interest Analysis.sql
-    ├── C. Segment Analysis.sql
-    └── D. Index Analysis.sql
+└── 📁 8 weeks SQL challenge/
+    ├── 🍜 Case Study 1 - Danny's Dinner/
+    │   ├── README.md
+    │   ├── Dataset.sql
+    │   └── Dannys Dinner.sql
+    │
+    ├── 🍕 Case Study 2 - Pizza Runner/
+    │   ├── README.md
+    │   ├── Dataset.sql
+    │   ├── Data Cleaning and Transformation.sql
+    │   ├── A. Pizza Metrics.sql
+    │   ├── B. Runner and Customer Experience.sql
+    │   ├── C. Ingredient Optimisation.sql
+    │   ├── D. Pricing and Ratings.sql
+    │   └── E.  Bonus Question.sql
+    │
+    ├── 🥑 Case Study 3 - Foodie Fi/
+    │   ├── README.md
+    │   ├── Dataset.sql
+    │   ├── A. Customer Journey.sql
+    │   ├── B. Data Analysis.sql
+    │   └── C. Challenge Payment.sql
+    │
+    ├── 🏦 Case Study 4 - Data Bank/
+    │   ├── README.md
+    │   ├── Dataset.sql
+    │   ├── A. Customer Nodes Exploration.sql
+    │   └── B. Customer Transactions.sql
+    │
+    ├── 🛒 Case Study 5 - Data Mart/
+    │   ├── README.md
+    │   ├── Dataset.sql
+    │   ├── A. Data Cleansing Steps.sql
+    │   ├── B. Data Exploration.sql
+    │   ├── C. Before & After Analysis.sql
+    │   └── D. Bonus Question.sql
+    │
+    ├── 🦞 Case Study 6 - Clique Bait/
+    │   ├── README.md
+    │   ├── Dataset.sql
+    │   ├── A. Digital Analysis.sql
+    │   ├── B. Product Funnel Analysis.sql
+    │   └── C. Campaigns Analysis.sql
+    │
+    ├── 👕 Case Study 7 - Balanced Tree Clothing Co/
+    │   ├── README.md
+    │   ├── Dataset.sql
+    │   ├── A. High Level Sales Analysis.sql
+    │   ├── B. Transaction Analysis.sql
+    │   ├── C. Product Analysis.sql
+    │   └── D. Bonus Challenge.sql
+    │
+    └── 🎯 Case Study 8 - Fresh Segments/
+        ├── README.md
+        ├── Dataset.sql
+        ├── A. Data Exploration and Cleansing.sql
+        ├── B. Interest Analysis.sql
+        ├── C. Segment Analysis.sql
+        └── D. Index Analysis.sql
 ```
 
 ---
